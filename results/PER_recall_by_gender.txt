@@ -1,0 +1,8 @@
+Excluding honorifics: False
+969 entities
+ACE Recall (F): 0.380 (358.0), recall (M): 0.496 (446.0), recall (U): 0.236 (165.0)
+LIT Recall (F): 0.693 (358.0), recall (M): 0.682 (446.0), recall (U): 0.552 (165.0)
+true ACE diff:	-0.11562742691083999
+true LIT diff:	0.01112308039181309
+ACE P value: 0.0009300000
+LIT P value: 0.7459100000

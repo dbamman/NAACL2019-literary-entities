@@ -1,0 +1,42 @@
+[
+    {
+        "dev/main/loss": 21.115602493286133,
+        "iteration": 1,
+        "dev/main/accuracy": 0.0,
+        "main/accuracy": 0.06818181818181818,
+        "elapsed_time": 2.042986212298274,
+        "dev/main/fscore": 0.0,
+        "epoch": 1,
+        "main/loss": 18.614437103271484
+    },
+    {
+        "dev/main/loss": 24.92201805114746,
+        "iteration": 2,
+        "dev/main/accuracy": 0.0,
+        "main/accuracy": 0.07142857142857142,
+        "elapsed_time": 4.609677582979202,
+        "dev/main/fscore": 0.0,
+        "epoch": 2,
+        "main/loss": 33.016319274902344
+    },
+    {
+        "dev/main/loss": 37.96077346801758,
+        "iteration": 3,
+        "dev/main/accuracy": 0.02,
+        "main/accuracy": 0.36,
+        "elapsed_time": 7.205564074218273,
+        "dev/main/fscore": 0.0,
+        "epoch": 3,
+        "main/loss": 34.145023345947266
+    },
+    {
+        "dev/main/loss": 49.62049102783203,
+        "iteration": 4,
+        "dev/main/accuracy": 0.029850746268656716,
+        "main/accuracy": 0.0,
+        "elapsed_time": 9.76126584969461,
+        "dev/main/fscore": 0.0,
+        "epoch": 4,
+        "main/loss": 32.20329284667969
+    }
+]
