@@ -1,5 +1,5 @@
 # NAACL2019-literary-entities
-Code to support Bamman et al. (2019), "An Annotated Dataset of Literary Entities" (NAACL 2019).
+Code to support Bamman et al. (2019), "[An Annotated Dataset of Literary Entities](http://people.ischool.berkeley.edu/~dbamman/pubs/pdf/naacl2019_literary_entities.pdf)" (NAACL 2019).
 
 #
 
